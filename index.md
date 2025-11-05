@@ -9,8 +9,7 @@ E-mail: [takayanagi.keitaro.54h@st.kyoto-u.ac.jp](mailto:takayanagi.keitaro.54h@
 - Applications of machine learning
 
 ## Skills
-- **Programming:** Python (daily use), C, C++, TypeScript, JavaScript (basic knowledge)  
-- **Machine Learning & Data Analysis:** PyTorch, NumPy, pandas, scikit-learn, NetworkX  
+- **Programming:** Python (daily use), C, C++, TypeScript, JavaScript (basic knowledge) 
 - **Tools:** Git, Linux, Docker, Firebase
 
 ## Education
