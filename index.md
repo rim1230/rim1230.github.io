@@ -25,11 +25,11 @@ Linkedin: [ktakayanagi](https://www.linkedin.com/in/ktakayanagi/)
 
 ## Publications
 - Keitaro Takayanagi, Shiori Hironaka, and Kazuyuki Shudo. Measuring Geographic Preferences in Social Networks Beyond Population Bias. [ABCSS 2025 (IEEE Big Data 2025)](https://css-japan.com/en/abcss2025/).
-- Keitaro Takayanagi, Shiori Hironaka, and Kazuyuki Shudo. ソーシャルネットワークにおける人口の偏りを考慮した地理的選好の測定. [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.sigwi2.org/index.html).
+- Keitaro Takayanagi, Shiori Hironaka, and Kazuyuki Shudo. ソーシャルネットワークにおける人口の偏りを考慮した地理的選好の測定. [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.sigwi2.org/index.html). 学生奨励賞.
 - Keitaro Takayanagi, Takafumi Sugimoto, Masayuki Wakutani, Shin Toguchi, Yuya Kawachi, Tohlu Matsushima, Hisakado Takashi. 実配電系統における TDR 波形の畳み込みオートエンコーダによる異常検知 (Anomaly Detection by Convolutional Autoencoder for Real TDR Waveforms in Distributed Systems). [令和7年 電気学会 電力・エネルギー部門大会](https://ieej-pes.org/pes_2025/).
 
 ## Awards
-- [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.sigwi2.org/index.html) 学生奨励賞 (2025)
+- [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.sigwi2.org/index.html) 学生奨励賞 (2025) [[article](https://shudo-lab.org/posts/arg-wi2%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%A7%E5%AD%A6%E7%94%9F%E5%A5%A8%E5%8A%B1%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E2025%E5%B9%B411%E6%9C%88/)] 
 
 ## Others
 - **Nov. 2025 - Present**: Teaching Assistant, Introduction to Statistics, Kyoto University.
