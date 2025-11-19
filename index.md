@@ -20,7 +20,7 @@ Linkedin: [ktakayanagi](https://www.linkedin.com/in/ktakayanagi/)
 
 ## Experience
 - **Nov. 2025 – Present:** Research Assistant, Kyoto University
-  - Research and development of data analysis agents
+  - Research and development of data analysis AI agents on [DIAS](https://diasjp.net/)
 - **Aug. 2025 – Sept. 2025:** Research Development Internship, NTT
 
 ## Publications
