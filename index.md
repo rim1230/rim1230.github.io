@@ -5,7 +5,7 @@ I have a broad interest in science through the lens of computing and data analys
 - E-mail: [takayanagi.keitaro.54h@st.kyoto-u.ac.jp](mailto:takayanagi.keitaro.54h@st.kyoto-u.ac.jp)
 - GitHub: [rim1230](https://github.com/rim1230)
 - Linkedin: [ktakayanagi](https://www.linkedin.com/in/ktakayanagi/)
-- Zenn: [rim1230](https://rim1230.github.io/)
+- Zenn: [ktr](https://zenn.dev/ktkyng)
 
 ## Research Interests
 - Data Mining, Social Network Analysis, Computational Social Science
