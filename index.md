@@ -8,8 +8,13 @@ I have a broad interest in science through the lens of computing and data analys
 - Zenn: [ktr](https://zenn.dev/ktkyng)
 
 ## Research Interests
-- Data Mining, Social Network Analysis, Computational Social Science
-- Applications of machine learning
+- Data Mining and Analysis
+  - Social Network Analysis
+  - Graph Analysis
+  - Computational Social Science
+- Machine Learning
+  - Recommendation Systems
+  - Anomaly Detection
 
 ## Skills
 - **Programming:** Python (daily use), C, C++, TypeScript, JavaScript (basic knowledge) 
@@ -21,7 +26,7 @@ I have a broad interest in science through the lens of computing and data analys
 
 ## Experience
 - **Nov. 2025 – Present:** Research Assistant, Kyoto University
-  - Research and development of data analysis AI agents on [DIAS](https://diasjp.net/)
+  - Research and development of data analysis agents on [DIAS](https://diasjp.net/)
 - **Aug. 2025 – Sept. 2025:** Research Development Internship, NTT
 
 ## Publications
