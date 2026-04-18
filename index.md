@@ -12,6 +12,7 @@ I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.
   - Social Network Analysis
   - Graph Analysis
   - Computational Social Science
+- AI for Science (AI4Sci)
 - Machine Learning
 
 ## Skills
@@ -24,7 +25,8 @@ I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.
 
 ## Experience
 - **Nov. 2025 – Present:** Research Assistant, Kyoto University
-  - Research and development of data analysis agents on [DIAS](https://diasjp.net/)
+  - Research on AI for Science (AI4Sci) leveraging large-scale geospatial and environmental datasets.
+  - Developing a data analysis agent on [DIAS](https://diasjp.net/).
 - **Aug. 2025 – Sept. 2025:** R&D Internship, NTT
 
 ## International Conference
