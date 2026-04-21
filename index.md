@@ -11,9 +11,8 @@ I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.
 - Data Mining and Analysis
   - Social Network Analysis
   - Graph Analysis
-  - Computational Social Science
-- AI for Science (AI4Sci)
-- Machine Learning
+  - Anomaly Detection
+- Computational Social Science
 
 ## Skills
 - **Programming:** Python (daily use), C, C++, TypeScript, JavaScript, React (basic knowledge) 
