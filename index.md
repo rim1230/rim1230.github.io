@@ -1,4 +1,4 @@
-# Keitaro Takayanagi
+# Keitaro Takayanagi / 高柳 慶太郎
 I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.
 
 - E-mail: [takayanagi.keitaro.54h@st.kyoto-u.ac.jp](mailto:takayanagi.keitaro.54h@st.kyoto-u.ac.jp)
@@ -10,8 +10,7 @@ I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.
 ## Research Interests
 - Data Mining and Analysis
   - Social Network Analysis
-  - Graph Analysis
-  - Anomaly Detection
+- Machine Learning
 - Computational Social Science
 
 ## Skills
@@ -24,7 +23,7 @@ I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.
 
 ## Experience
 - **Nov. 2025 – Present:** Research Assistant, Kyoto University
-  - Research on AI for Science (AI4Sci) leveraging large-scale geospatial and environmental datasets.
+  - Research on AI for Science leveraging large-scale geospatial and environmental datasets.
   - Developing a data analysis agent on [DIAS](https://diasjp.net/).
 - **Aug. 2025 – Sept. 2025:** R&D Internship, NTT
 
