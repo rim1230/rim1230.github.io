@@ -1,4 +1,7 @@
-# Keitaro Takayanagi / 高柳 慶太郎
+---
+title: "Keitaro Takayanagi / 高柳 慶太郎"
+---
+
 I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.
 
 - E-mail: [takayanagi.keitaro.54h@st.kyoto-u.ac.jp](mailto:takayanagi.keitaro.54h@st.kyoto-u.ac.jp)
