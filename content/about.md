@@ -1,5 +1,10 @@
 ---
-title: "Keitaro Takayanagi / 高柳 慶太郎"
+title: "About"
+url: "/about/"
+summary: "About me"
+ShowToc: true
+TocOpen: true
+ShowReadingTime: false
 ---
 
 I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.

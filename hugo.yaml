@@ -1,0 +1,64 @@
+baseURL: "https://rim1230.github.io/"
+title: "Keitaro Takayanagi"
+theme: "PaperMod"
+locale: "en-us"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pagination:
+  pagerSize: 10
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "Keitaro Takayanagi's personal website"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  TocOpen: false
+
+  homeInfoParams:
+    Title: "Keitaro Takayanagi / 高柳 慶太郎"
+    Content: >
+      Master's student at Shudo Lab, Kyoto University.
+      Working on social network analysis and computational social science.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/rim1230"
+    - name: x
+      url: "https://x.com/ktkyng1"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ktakayanagi/"
+    - name: email
+      url: "mailto:takayanagi.keitaro.54h@st.kyoto-u.ac.jp"
+
+  fuseOpts:
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 10
+    - name: Posts
+      url: /posts/
+      weight: 20
+    - name: Search
+      url: /search/
+      weight: 30
