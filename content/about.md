@@ -2,8 +2,7 @@
 title: "About"
 url: "/about/"
 summary: "About me"
-ShowToc: true
-TocOpen: true
+ShowToc: false
 ShowReadingTime: false
 ---
 
