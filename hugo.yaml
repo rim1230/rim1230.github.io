@@ -1,7 +1,8 @@
 baseURL: "https://rim1230.github.io/"
-title: "Keitaro Takayanagi"
 theme: "PaperMod"
-locale: "en-us"
+
+defaultContentLanguage: "ja"
+defaultContentLanguageInSubdir: false
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -23,20 +24,14 @@ outputs:
 
 params:
   env: production
-  description: "Keitaro Takayanagi's personal website"
   defaultTheme: auto
+  displayFullLangName: true
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   ShowToc: true
   TocOpen: false
-
-  homeInfoParams:
-    Title: "Keitaro Takayanagi / 高柳 慶太郎"
-    Content: >
-      Master's student at Shudo Lab, Kyoto University.
-      Working on social network analysis and computational social science.
 
   socialIcons:
     - name: github
@@ -51,14 +46,51 @@ params:
   fuseOpts:
     keys: ["title", "permalink", "summary", "content"]
 
-menu:
-  main:
-    - name: About
-      url: /about/
-      weight: 10
-    - name: Posts
-      url: /posts/
-      weight: 20
-    - name: Search
-      url: /search/
-      weight: 30
+languages:
+  ja:
+    label: "日本語"
+    locale: "ja-jp"
+    weight: 1
+    title: "高柳 慶太郎"
+    params:
+      description: "高柳慶太郎の個人サイト"
+      homeInfoParams:
+        Title: "高柳 慶太郎 / Keitaro Takayanagi"
+        Content: >
+          京都大学 首藤研究室 修士課程。
+          ソーシャルネットワーク分析と計算社会科学を研究しています。
+    menus:
+      main:
+        - name: About
+          pageRef: /about
+          weight: 10
+        - name: Posts
+          pageRef: /posts
+          weight: 20
+        - name: Search
+          pageRef: /search
+          weight: 30
+
+  en:
+    label: "English"
+    locale: "en-us"
+    weight: 2
+    title: "Keitaro Takayanagi"
+    params:
+      description: "Keitaro Takayanagi's personal website"
+      homeInfoParams:
+        Title: "Keitaro Takayanagi / 高柳 慶太郎"
+        Content: >
+          Master's student at Shudo Lab, Kyoto University.
+          Working on social network analysis and computational social science.
+    menus:
+      main:
+        - name: About
+          pageRef: /about
+          weight: 10
+        - name: Posts
+          pageRef: /posts
+          weight: 20
+        - name: Search
+          pageRef: /search
+          weight: 30

@@ -1,9 +1,8 @@
 ---
 title: "Search"
 layout: "search"
-url: "/search/"
 placeholder: "検索..."
-summary: "search"
+summary: "検索"
 ShowReadingTime: false
 ShowBreadCrumbs: false
 ShowToc: false
