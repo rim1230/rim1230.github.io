@@ -1,49 +1,57 @@
 ---
-title: "About"
+title: "About Me"
 summary: "About me"
 ShowToc: false
 ShowReadingTime: false
 ---
 
-I'm a master's student at [Shudo Lab](https://shudo-lab.org), Kyoto University.
-
-- E-mail: [takayanagi.keitaro.54h@st.kyoto-u.ac.jp](mailto:takayanagi.keitaro.54h@st.kyoto-u.ac.jp)
-- GitHub: [rim1230](https://github.com/rim1230)
-- Linkedin: [ktakayanagi](https://www.linkedin.com/in/ktakayanagi/)
-- X: [ktkyng1](https://x.com/ktkyng1)
-- Zenn: [ktr](https://zenn.dev/ktkyng)
+I'm **Keitaro Takayanagi**, a second-year master's student at the Graduate School of Informatics, Kyoto University.
+I'm interested in data analysis techniques, and in using them to measure the real world and solve real-world problems.
+I'm also interested in social systems in which humans and machines work together.
 
 ## Research Interests
-- Data Mining and Analysis
-  - Social Network Analysis
-- Machine Learning
-- Computational Social Science
-
-## Skills
-- **Programming:** Python (daily use), C, C++, TypeScript, JavaScript, React (basic knowledge) 
-- **Tools:** Git, Linux, LaTeX
+- Data mining and statistical modeling
+  - Social network analysis
+- Applied machine learning
+- Computational social science
+  - LLM agent-based simulation
 
 ## Education
-- **Apr. 2025 – Present:** Master of Informatics, Kyoto University  
-- **Apr. 2021 – Mar. 2025:** Bachelor of Engineering, Kyoto University
+Kyoto University *Apr. 2025 – Present*
+: Master's course, Course of Social Informatics, Graduate School of Informatics, [Shudo Lab](https://shudo-lab.org)
+
+Kyoto University *Apr. 2021 – Mar. 2025*
+: Department of Electrical and Electronic Engineering, Faculty of Engineering, [Hisakado Lab](https://cct.kuee.kyoto-u.ac.jp)
 
 ## Experience
-- **Nov. 2025 – Present:** Research Assistant, Kyoto University
-  - Research on AI for Science leveraging large-scale geospatial and environmental datasets.
-  - Developing a data analysis agent on [DIAS](https://diasjp.net/).
-- **Aug. 2025 – Sept. 2025:** R&D Internship, NTT
+Research Assistant, Academic Center for Computing and Media Studies, Kyoto University *Nov. 2025 – Present*
+: Research and development of scientific research agents on the [Data Integration and Analysis System (DIAS)](https://diasjp.net/)
 
-## International Conference
-1. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. [Measuring Geographic Preferences in Social Networks Beyond Population Bias](https://ieeexplore.ieee.org/document/11401574). The 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025).
+R&D Internship, NTT *Aug. 2025 – Sept. 2025*
+: Research and development of applied machine learning for advanced communication network operations, at the Network Technology Center
 
-## Domestic Conference
-1. **高柳 慶太郎**, 廣中 詩織, 首藤 一幸. ソーシャルネットワークにおけるユーザの分布を考慮した地理的近接性の分析. [第5回計算社会科学会大会（CSSJ 2026）](https://css-japan.com/2025/11/27/cssj2026/), 2026年3月.
-2. **高柳 慶太郎**, 廣中 詩織, 首藤 一幸. 人口分布の偏りを補正したソーシャルネットワークにおける地理的近接性の指標. [ネットワーク科学研究会 2025](https://www.network-science-seminar.com/activities/2025), 2026年2月.
-3. **高柳 慶太郎**, 廣中 詩織, 首藤 一幸. ソーシャルネットワークにおける人口の偏りを考慮した地理的選好の測定. [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.jstage.jst.go.jp/article/wii/21/0/21_60/_article/-char/ja), 2025年11月. 学生奨励賞.
-4. **Keitaro Takayanagi**, Takafumi Sugimoto, Masayuki Wakutani, Shin Toguchi, Yuya Kawachi, Tohlu Matsushima, Hisakado Takashi. 実配電系統における TDR 波形の畳み込みオートエンコーダによる異常検知. [令和7年 電気学会 電力・エネルギー部門大会](https://ieej-pes.org/pes_2025/), 2025年9月.
+## International Conferences and Workshops
+1. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. [Measuring Geographic Preferences in Social Networks Beyond Population Bias](https://ieeexplore.ieee.org/document/11401574). The 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025), Dec. 2025.
+
+## Domestic Conferences and Workshops
+1. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. Validating LLM-Generated Friendship Networks from Japanese Voter Personas. [The 21st Annual Symposium for Young Researchers in Natural Language Processing (YANS 2026)](https://yans.anlp.jp/entry/yans2026), Aug. 2026. (in Japanese)
+1. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. Analyzing Geographic Proximity in Social Networks Considering the Distribution of Users. [The 5th Annual Meeting of the Computational Social Science Society of Japan (CSSJ 2026)](https://css-japan.com/2025/11/27/cssj2026/), Mar. 2026. (in Japanese)
+2. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. A Geographic Proximity Metric for Social Networks Corrected for Population Distribution Bias. [Network Science Workshop 2025](https://www.network-science-seminar.com/activities/2025), Feb. 2026. (in Japanese)
+3. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. Measuring Geographic Preferences in Social Networks Considering Population Bias. [The 21st ARG Web Intelligence and Interaction Workshop](https://www.jstage.jst.go.jp/article/wii/21/0/21_60/_article/-char/ja), Nov. 2025. (in Japanese) Student Encouragement Award.
+4. **Keitaro Takayanagi**, Takafumi Sugimoto, Masayuki Wakutani, Shin Toguchi, Yuya Kawachi, Tohlu Matsushima, and Takashi Hisakado. Anomaly Detection of TDR Waveforms in Real Distribution Systems Using a Convolutional Autoencoder. [Annual Conference of the Power and Energy Society, IEEJ 2025](https://ieej.bookpark.ne.jp/products/ieej-btb2025392), Sept. 2025. (in Japanese)
 
 ## Awards
-- [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.sigwi2.org/index.html) 学生奨励賞 (Nov. 2025) [[article](https://shudo-lab.org/posts/arg-wi2%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%A7%E5%AD%A6%E7%94%9F%E5%A5%A8%E5%8A%B1%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E2025%E5%B9%B411%E6%9C%88/)] 
+Student Encouragement Award *Nov. 2025*
+: [The 21st ARG Web Intelligence and Interaction Workshop](https://www.sigwi2.org/report-no21.html#award)
 
-## Others
-- **Nov. 2025 - Present**: Teaching Assistant, Introduction to Statistics, Kyoto University.
+## Activities
+[Kyoto MITOU Program](https://kyoto-i-lab.org) *Aug. 2026 – Present*
+: A project selected for the "AKATSUKI Project" of the Ministry of Economy, Trade and Industry.
+Lead creator of the project "Font production support software that completes distinctive Japanese typefaces to a practical scale" (PM: [Kotaro Matsuoka](https://researchmap.jp/nindanaoto))
+
+Teaching Assistant *Nov. 2025 – Mar. 2026*
+: Introduction to Statistics
+
+## Skills
+- **Programming:** Python (daily use), C, C++, TypeScript, JavaScript, React (basic knowledge)
+- **Tools:** Git, Linux, LaTeX

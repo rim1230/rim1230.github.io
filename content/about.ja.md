@@ -1,49 +1,58 @@
 ---
-title: "About"
+title: "About Me"
 summary: "自己紹介"
 ShowToc: false
 ShowReadingTime: false
 ---
 
-京都大学 [首藤研究室](https://shudo-lab.org) の修士課程に在籍しています。
+京都大学大学院 情報学研究科 M2 の **高柳 慶太郎** です。
+データ解析の技術と、それを用いて実社会を計測したり、現実世界の問題を解決することに興味があります。
+また、人間と機械が協調する社会システムにも興味があります。
 
-- E-mail: [takayanagi.keitaro.54h@st.kyoto-u.ac.jp](mailto:takayanagi.keitaro.54h@st.kyoto-u.ac.jp)
-- GitHub: [rim1230](https://github.com/rim1230)
-- Linkedin: [ktakayanagi](https://www.linkedin.com/in/ktakayanagi/)
-- X: [ktkyng1](https://x.com/ktkyng1)
-- Zenn: [ktr](https://zenn.dev/ktkyng)
-
-## 研究分野
-- データマイニングと分析
+## 研究分野と関心
+- データマイニングと統計モデリング
   - ソーシャルネットワーク分析
-- 機械学習
+- 応用機械学習
 - 計算社会科学
-
-## スキル
-- **プログラミング:** Python（日常的に使用）, C, C++, TypeScript, JavaScript, React（基礎的な知識）
-- **ツール:** Git, Linux, LaTeX
+  - LLM Agent Based Simulation
 
 ## 学歴
-- **2025年4月 – 現在:** 京都大学大学院 情報学研究科 修士課程
-- **2021年4月 – 2025年3月:** 京都大学 工学部 学士
+京都大学大学院 *2025年4月 – 現在*
+: 情報学研究科 社会情報学コース 修士課程 [首藤研究室](https://shudo-lab.org)
+
+京都大学 *2021年4月 – 2025年3月*
+: 工学部 電気電子工学科 [久門研究室](https://cct.kuee.kyoto-u.ac.jp)
 
 ## 職歴
-- **2025年11月 – 現在:** 京都大学 リサーチアシスタント
-  - 大規模な地理空間・環境データを活用した AI for Science の研究
-  - [DIAS](https://diasjp.net/) 上でのデータ分析エージェントの開発
-- **2025年8月 – 2025年9月:** NTT 研究開発インターンシップ
+京都大学 学術情報メディアセンター リサーチアシスタント *2025年11月 – 現在*
+: [データ統合・解析システム (DIAS)](https://diasjp.net/) 上における科学研究エージェントの研究開発
 
-## 国際会議
-1. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. [Measuring Geographic Preferences in Social Networks Beyond Population Bias](https://ieeexplore.ieee.org/document/11401574). The 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025).
+NTT R&D インターンシップ *2025年8月 – 2025年9月*
+: ネットワークテクノロジーセンタにて、通信ネットワーク運用の高度化に向けた機械学習の応用技術の研究開発
 
-## 国内会議
+## 国際会議・ワークショップ
+1. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. [Measuring Geographic Preferences in Social Networks Beyond Population Bias](https://ieeexplore.ieee.org/document/11401574). The 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025), Dec. 2025.
+
+## 国内学会・研究会
+1. **高柳 慶太郎**, 廣中 詩織, 首藤 一幸. 日本の有権者ペルソナからLLMが生成する友人ネットワークの検証. [第21回言語処理若手シンポジウム(YANS2026)](https://yans.anlp.jp/entry/yans2026), 2026年8月.
 1. **高柳 慶太郎**, 廣中 詩織, 首藤 一幸. ソーシャルネットワークにおけるユーザの分布を考慮した地理的近接性の分析. [第5回計算社会科学会大会（CSSJ 2026）](https://css-japan.com/2025/11/27/cssj2026/), 2026年3月.
 2. **高柳 慶太郎**, 廣中 詩織, 首藤 一幸. 人口分布の偏りを補正したソーシャルネットワークにおける地理的近接性の指標. [ネットワーク科学研究会 2025](https://www.network-science-seminar.com/activities/2025), 2026年2月.
 3. **高柳 慶太郎**, 廣中 詩織, 首藤 一幸. ソーシャルネットワークにおける人口の偏りを考慮した地理的選好の測定. [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.jstage.jst.go.jp/article/wii/21/0/21_60/_article/-char/ja), 2025年11月. 学生奨励賞.
-4. **Keitaro Takayanagi**, Takafumi Sugimoto, Masayuki Wakutani, Shin Toguchi, Yuya Kawachi, Tohlu Matsushima, Hisakado Takashi. 実配電系統における TDR 波形の畳み込みオートエンコーダによる異常検知. [令和7年 電気学会 電力・エネルギー部門大会](https://ieej-pes.org/pes_2025/), 2025年9月.
+4. **高柳慶太郎**，杉本貴史，湧谷栄之，渡久地真，河内祐也，松嶋徹，久門尚史. 実配電系統における TDR 波形の畳み込みオートエンコーダによる異常検知. [令和7年 電気学会 電力・エネルギー部門大会](https://ieej.bookpark.ne.jp/products/ieej-btb2025392), 2025年9月.
 
 ## 受賞
-- [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.sigwi2.org/index.html) 学生奨励賞（2025年11月）[[記事](https://shudo-lab.org/posts/arg-wi2%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%A7%E5%AD%A6%E7%94%9F%E5%A5%A8%E5%8A%B1%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E2025%E5%B9%B411%E6%9C%88/)]
+学生奨励賞 *2025年11月*
+: [ARG 第21回Webインテリジェンスとインタラクション研究会](https://www.sigwi2.org/report-no21.html#award)
 
-## その他
-- **2025年11月 – 現在:** 京都大学 統計入門 ティーチングアシスタント
+## 活動
+[京都未踏的人材発掘・育成プログラム](https://kyoto-i-lab.org) *2026年8月 - 現在*
+: 経済産業省「AKATSUKIプロジェクト」採択事業。
+プロジェクト「個性的な日本語フォントを実用可能な規模まで補完するフォント制作支援ソフトウェア」代表クリエイター（PM: [松岡 航太郎](https://researchmap.jp/nindanaoto)）
+
+ティーチングアシスタント *2025年11月 – 2026年3月*
+: 統計入門
+
+## スキル
+- **プログラミング:** Python (daily use), C, C++, TypeScript, JavaScript, React (Basic Knowledge)
+- **ツール:** Git, Linux, LaTeX
+

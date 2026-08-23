@@ -16,6 +16,13 @@ minify:
   disableXML: true
   minifyOutput: true
 
+markup:
+  goldmark:
+    extensions:
+      extras:
+        definitionList:
+          enable: true
+
 outputs:
   home:
     - HTML
@@ -51,14 +58,13 @@ languages:
     label: "日本語"
     locale: "ja-jp"
     weight: 1
-    title: "高柳 慶太郎"
+    title: "nagi"
     params:
-      description: "高柳慶太郎の個人サイト"
+      description: "Keitaro Takayanagi's Personal Web Page"
       homeInfoParams:
-        Title: "高柳 慶太郎 / Keitaro Takayanagi"
+        Title: "nagi"
         Content: >
-          京都大学 首藤研究室 修士課程。
-          ソーシャルネットワーク分析と計算社会科学を研究しています。
+          京都大学大学院 情報学研究科 修士課程.
     menus:
       main:
         - name: About

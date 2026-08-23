@@ -1,0 +1,62 @@
+/* about ページの経歴: 定義リストを「内容 | 詳細」の 2 カラムで表示し、
+   期間（dt 内の *...*）は内容の下の行に小さく出す。
+   dl/dt/dd の 2 カラム自体は PaperMod 本体（common/md-content.css）が持っているので、
+   ここでは列幅・行間と期間の見た目だけを上書きする。 */
+
+.md-content dt {
+    width: 25%;
+    font-weight: 700;
+    line-height: 1.6;
+}
+
+.md-content dd {
+    width: 75%;
+    padding-inline-start: 1.5rem;
+    line-height: 1.7;
+}
+
+/* エントリ間の余白 */
+.md-content dd~dd,
+.md-content dt~dt {
+    margin-top: 0.9rem;
+}
+
+/* 同一エントリに dd を複数書いた場合、2 つめ以降を詳細カラムの位置に揃える
+   （隣接セレクタなので「直前も dd」= 同一エントリの続きにだけ効く） */
+.md-content dd+dd {
+    margin-top: 0.2rem;
+    margin-inline-start: 25%;
+}
+
+/* 期間 */
+.md-content dt em {
+    display: block;
+    margin-top: 0.1rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8em;
+    line-height: 1.5;
+    color: var(--secondary);
+    font-variant-numeric: tabular-nums;
+}
+
+/* 狭い画面では 1 カラムに落とす */
+@media screen and (max-width: 640px) {
+
+    .md-content dt,
+    .md-content dd {
+        width: 100%;
+    }
+
+    .md-content dd,
+    .md-content dd~dd,
+    .md-content dd+dd {
+        margin-top: 0.2rem;
+        margin-inline-start: 0;
+        padding-inline-start: 0;
+    }
+
+    .md-content dt~dt {
+        margin-top: 1rem;
+    }
+}
