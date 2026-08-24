@@ -46,7 +46,7 @@ Student Encouragement Award *Nov. 2025*
 
 ## Activities
 [Kyoto MITOU Program](https://kyoto-i-lab.org) *Aug. 2026 – Present*
-: A project selected for the "AKATSUKI Project" of the Ministry of Economy, Trade and Industry.
+: A project selected for the "AKATSUKI Project" of the Ministry of Economy, Trade and Industry. 10 of 45 proposals were accepted.
 Lead creator of the project "Font production support software that completes distinctive Japanese typefaces to a practical scale" (PM: [Kotaro Matsuoka](https://researchmap.jp/nindanaoto))
 
 Teaching Assistant *Nov. 2025 – Mar. 2026*
