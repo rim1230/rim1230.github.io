@@ -6,15 +6,27 @@ ShowReadingTime: false
 ---
 
 京都大学大学院 情報学研究科 M2 の **高柳 慶太郎** です。
-データ解析の技術と、それを用いて実社会を計測したり、現実世界の問題を解決することに興味があります。
-また、人間と機械が協調する社会システムにも興味があります。
+データ解析やAIの技術と、それを用いて実社会を計測したり、現実世界の問題を解決することに興味があります。
 
 ## 研究分野と関心
+現在・これまでの研究テーマは以下の通りです:
 - データマイニングと統計モデリング
-  - ソーシャルネットワーク分析
+  - ソーシャルネットワーク分析によるユーザー理解
 - 応用機械学習
+  - 異常検知
 - 計算社会科学
-  - LLM Agent Based Simulation
+  - AIエージェントとシミュレーション
+
+他にも以下の事柄に関心があります:
+- タイポグラフィ
+  - フォント生成技術とデザイナーとAIの協働
+    - [京都未踏](#活動)にて取り組んでいます。
+    - この文脈から能動学習にも興味があります。
+- 空間データ
+  - 都市構造
+  - 人流解析
+- 地震などの自然災害の観測・速報技術
+- 自由意志の哲学
 
 ## 学歴
 京都大学大学院 *2025年4月 – 現在*
@@ -25,10 +37,10 @@ ShowReadingTime: false
 
 ## 職歴
 京都大学 学術情報メディアセンター リサーチアシスタント *2025年11月 – 現在*
-: [データ統合・解析システム (DIAS)](https://diasjp.net/) 上における科学研究エージェントの研究開発
+: [データ統合・解析システム (DIAS)](https://diasjp.net/) 上における科学研究エージェントの実現を目的とした研究開発。既存のデータアクセスAPIの整備、MCPサーバーの構築に従事[^dias]。
 
 NTT R&D インターンシップ *2025年8月 – 2025年9月*
-: ネットワークテクノロジーセンタにて、通信ネットワーク運用の高度化に向けた機械学習の応用技術の研究開発
+: ネットワークテクノロジーセンタにて、通信ネットワーク運用の高度化に向けた機械学習の応用技術の研究開発に従事。
 
 ## 国際会議・ワークショップ
 1. **Keitaro Takayanagi**, Shiori Hironaka, and Kazuyuki Shudo. [Measuring Geographic Preferences in Social Networks Beyond Population Bias](https://ieeexplore.ieee.org/document/11401574). The 10th International Workshop on Application of Big Data for Computational Social Science (ABCSS2025 @ IEEE BigData 2025), Dec. 2025.
@@ -56,3 +68,4 @@ NTT R&D インターンシップ *2025年8月 – 2025年9月*
 - **プログラミング:** Python (daily use), C, C++, TypeScript, JavaScript, React (Basic Knowledge)
 - **ツール:** Git, Linux, LaTeX
 
+[^dias]: DIASをはじめとする国内データ基盤における機械判読性の不足やAPI連携の未整備は課題として[認識されている](https://www.jst.go.jp/crds/pdf/2026/RR/CRDS-FY2026-RR-01_1.pdf#page=19)。
