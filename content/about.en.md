@@ -13,7 +13,7 @@ I'm also interested in social systems in which humans and machines work together
 - Data mining and statistical modeling
   - Social network analysis
 - Applied machine learning
-- Computational social science
+- Generative agents
   - LLM agent-based simulation
 
 ## Education
