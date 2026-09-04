@@ -15,7 +15,7 @@ ShowReadingTime: false
 - 応用機械学習
   - 異常検知
 - Generative Agents
-  - AIエージェントとシミュレーション
+  - LLMエージェントによる生成社会の検証手法
 
 他にも以下の事柄に関心があります:
 - タイポグラフィ
